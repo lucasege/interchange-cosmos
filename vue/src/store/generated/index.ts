@@ -1,8 +1,10 @@
 // THIS FILE IS GENERATED AUTOMATICALLY. DO NOT MODIFY.
 
+import InterchangeDex from './interchange.dex'
 
 
 export default { 
+  InterchangeDex: load(InterchangeDex, 'interchange.dex'),
   
 }
 
